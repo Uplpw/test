@@ -2,7 +2,7 @@
 
 ## Goal
 
-Propose an unsupervised (no need to match the action information between the source and target grids) method to transfer the action information between different 3D models.
+> Propose an unsupervised (no need to match the action information between the source and target grids) method to transfer the action information between different 3D models.
 
 ## Abstract
 

@@ -73,7 +73,7 @@ This section is focused on and illustrates how to run the provided code and repr
 
 + After running the code, you can obtain the results and the results is in the follow directory.
 
-		cd ~/test/12260437_6697A_finger-B_pants/test_gan0/AtoB/B
+		cd ~/test/12260437_6697sA_finger-B_pants/test_gan0/AtoB/B
 
 
 ## Results

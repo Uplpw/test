@@ -2,19 +2,19 @@
 
 ## Goal
 
-&nbsp;&nbsp;Propose an unsupervised (no need to match the action information between the source and target grids) method to transfer the action information between different 3D models.
+Propose an unsupervised (no need to match the action information between the source and target grids) method to transfer the action information between different 3D models.
 
 ## Abstract
 
-&nbsp&nbspTransferring deformation from a source shape to a target shape is a very useful technique in computer graphics. State-of-the-art deformation transfer methods require either point-wise correspondences between source and target shapes, or pairs of deformed source shapes with corresponding deformations.  
+Transferring deformation from a source shape to a target shape is a very useful technique in computer graphics. State-of-the-art deformation transfer methods require either point-wise correspondences between source and target shapes, or pairs of deformed source shapes with corresponding deformations.  
 
 In this work, we propose a novel approach to automatic deformation tranfer between two unpaired shape sets without correspondences.
 
 ## Description
 
-&nbsp&nbspGiven two sets of unpaired shapes, a source shape set S and a target shape set T, as well as a deformed source shape s, our aim is to produce a deformed target shape t which has visually similar deformation as s. Shapes in the same set S or T have the same connectivity. Many shape datasets satisfy this: they are either obtained by deforming a mesh model, or itting a template mesh model to deformed shapes. We do not assume shapes in S correspond to speciic shapes in T, although we assume that S and T provide suicient coverage of typical deformations of the relevant shapes. We learn a deep model with S and T as training examples. Once the deep model is trained, a shape t is generated for each input s.  
+Given two sets of unpaired shapes, a source shape set S and a target shape set T, as well as a deformed source shape s, our aim is to produce a deformed target shape t which has visually similar deformation as s. Shapes in the same set S or T have the same connectivity. Many shape datasets satisfy this: they are either obtained by deforming a mesh model, or itting a template mesh model to deformed shapes. We do not assume shapes in S correspond to speciic shapes in T, although we assume that S and T provide suicient coverage of typical deformations of the relevant shapes. We learn a deep model with S and T as training examples. Once the deep model is trained, a shape t is generated for each input s.  
 
-&nbsp&nbspExperimental results show that our fully automatic method is able to obtain high-quality deformation transfer results with unpaired data sets, comparable or better than existing methods where strict correspondences are required.
+Experimental results show that our fully automatic method is able to obtain high-quality deformation transfer results with unpaired data sets, comparable or better than existing methods where strict correspondences are required.
 
 ## Prerequisites
 
@@ -82,12 +82,12 @@ The section is focused on showing some our results of the experiment. The finger
 ## Citation
 If you found this code useful please cite our work as:
 
-@article{lagunas2019similarity,  
-	author = {Geo Lin, Yang Jie, Qiao Yi-Ling, Lai Yukun, Rosin, Paul, Xu Weiwei and Xia Shihong},  
+&nbsp;&nbsp;@article{lagunas2019similarity,  
+&nbsp;&nbsp;author = {Geo Lin, Yang Jie, Qiao Yi-Ling, Lai Yukun, Rosin, Paul, Xu Weiwei and Xia Shihong},  
 &nbsp;&nbsp;title = {Automatic Unpaired Shape Deformation Transfer},  
 &nbsp;&nbsp;journal = {ACM Transaction on Graphics},  
 &nbsp;&nbsp;volume = {38},  
 &nbsp;&nbsp;number = {4},  
-&nbsp;&nbsp;year = {2018}
+&nbsp;&nbsp;year = {2018}  
 }
 

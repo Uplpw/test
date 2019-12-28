@@ -2,7 +2,7 @@
 
 ## Goal
 
-&nbsp&nbspPropose an unsupervised (no need to match the action information between the source and target grids) method to transfer the action information between different 3D models.
+&nbsp;&nbsp;Propose an unsupervised (no need to match the action information between the source and target grids) method to transfer the action information between different 3D models.
 
 ## Abstract
 
@@ -83,11 +83,16 @@ The section is focused on showing some our results of the experiment. The finger
 If you found this code useful please cite our work as:
 
 @article{lagunas2019similarity,
-	author = {Geo Lin, Yang Jie, Qiao Yi-Ling, Lai Yukun, Rosin, Paul, Xu Weiwei and Xia Shihong},
-&nbsp&nbsptitle = {Automatic Unpaired Shape Deformation Transfer},
-&nbsp&nbspjournal = {ACM Transaction on Graphics},
-&nbsp&nbspvolume = {38},
-&nbsp&nbspnumber = {4},
-&nbsp&nbspyear = {2018}
+	author = {Geo Lin, Yang Jie, Qiao Yi-Ling, Lai Yukun, Rosin, Paul, Xu Weiwei and Xia Shihong},  
+	
+&nbsp;&nbsp;title = {Automatic Unpaired Shape Deformation Transfer},  
+
+&nbsp;&nbsp;journal = {ACM Transaction on Graphics},  
+
+&nbsp;&nbsp;volume = {38},  
+
+&nbsp;&nbsp;number = {4},  
+
+&nbsp;&nbsp;year = {2018}
 }
 

@@ -82,12 +82,12 @@ The section is focused on showing some our results of the experiment. The finger
 ## Citation
 If you found this code useful please cite our work as:
 
-&nbsp;&nbsp;@article{lagunas2019similarity,  
-&nbsp;&nbsp;author = {Geo Lin, Yang Jie, Qiao Yi-Ling, Lai Yukun, Rosin, Paul, Xu Weiwei and Xia Shihong},  
-&nbsp;&nbsp;title = {Automatic Unpaired Shape Deformation Transfer},  
-&nbsp;&nbsp;journal = {ACM Transaction on Graphics},  
-&nbsp;&nbsp;volume = {38},  
-&nbsp;&nbsp;number = {4},  
-&nbsp;&nbsp;year = {2018}  
-}
+&nbsp;&nbsp;&nbsp;&nbsp;@article{lagunas2019similarity,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author = {Geo Lin, Yang Jie, Qiao Yi-Ling, Lai Yukun, Rosin, Paul, Xu Weiwei and Xia Shihong},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title = {Automatic Unpaired Shape Deformation Transfer},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal = {ACM Transaction on Graphics},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume = {38},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number = {4},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2018}  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
 

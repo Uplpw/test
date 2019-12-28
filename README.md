@@ -22,7 +22,7 @@ The provided code has been tested and can be run on Linux. It is likely that the
 The required condition is listed.
 + **Ubuntu 16.04 or later**
 + **Python 3.6**
-+ **NVIDIA GPU + CUDA 9.0 cuDNN 7.0**
++ **NVIDIA GPU + CUDA 9.0 cuDNN 7.6.1**
 
 ## Download And Install
 

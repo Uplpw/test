@@ -33,7 +33,7 @@ The required condition is listed.
 
 ### Install
 
-**Note: our code and the follow coomands need to be run in a virtual environment.**
+**Note: our code and the follow commands need to be run in a virtual environment.**
 
 + Firstly, you need a virtual environment, please check if your python environment is already configured.
 
